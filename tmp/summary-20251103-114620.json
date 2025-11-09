@@ -1,0 +1,4 @@
+{
+  "summary": "User ran install/auth/create+push steps for GitHub. Waiting for repo URL to finalize secrets and protections.",
+  "current_status": "Pending repo URL to set GitHub secrets and (optional) branch protection, then verify CI and LFS files." 
+}

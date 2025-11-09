@@ -1,0 +1,4 @@
+{
+  "summary": "Git repo initialized with main branch, .gitignore and .env.example created, Git LFS rules added via .gitattributes, all code and product assets committed, README and CI workflow added. Next step: create GitHub repo and push using gh CLI.",
+  "current_status": "Blocked on creating GitHub repo from local environment without gh CLI auth. Please run the provided gh commands to create abadan-haly-website (private) and push main; then share the URL so I can finish secrets/protection setup."
+}

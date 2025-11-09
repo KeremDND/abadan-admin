@@ -1,0 +1,4 @@
+{
+  "summary": "Ready to connect and push to GitHub. Local repo prepared with LFS and CI. Requires GitHub authentication on your machine to create the remote and push.",
+  "current_status": "Awaiting GitHub auth. Run the provided gh commands; once pushed, share the repo URL so I can finish secrets and protections."
+}
